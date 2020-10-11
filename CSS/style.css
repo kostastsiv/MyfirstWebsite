@@ -1,0 +1,157 @@
+.site-menu{
+  width: cover;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  font-family: system-ui;
+  font-size: x-large;
+}
+
+.info{
+  width: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  font-family: system-ui;
+  color: white;
+}
+
+.site-menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+.site-menu li{
+    float: left;
+    margin: 10px;
+}
+
+.site-menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 40px;
+}
+
+.site-menu li a:hover{
+    color: #1341cd;
+}
+
+.genaral-info{
+    width: auto;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: system-ui;
+    color: white;
+}
+
+.genaral-info li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    padding: 30px;
+}
+
+.genaral-info li a{
+    text-decoration: none;   
+}
+
+.genaral-info li a:hover{
+    color: color: #1341cd;   
+}
+.genaral-info li a:visited{
+    color: #a02673;
+}
+
+.about-me-loren-purpose {
+  width: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  font-family: system-ui;
+  color: white;
+}
+
+.about-me-loren-purpose a{
+    text-decoration: none;   
+}
+
+.about-me-loren-purpose a:hover{
+    color: #1341cd;   
+}
+
+.about-me-loren-purpose a:visited{
+   color: #a02673;  
+}
+
+.skill-bars {
+  width: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  font-family: system-ui;
+  color: white;
+}
+
+
+
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.Communications {width: 80%; text-align: center; background-color: #d0141e;} 
+.C {width: 90%; text-align: center; background-color: #0b44c0;} 
+.Python {width: 60%; text-align: center; background-color: #0bc017;}
+.Java {width: 50%; text-align: center; background-color: #530bc0;} 
+.HTML {width:100%; text-align: center; background-color: #e56300;} 
+.CSS {width:50%; text-align: center; background-color:#c0bd05}
+
+.contactme {
+  width: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  font-family: system-ui;
+  color: white;
+}
+
+.contactme li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    padding: 30px;
+    font-size: 30px;
+    
+}
+
+
